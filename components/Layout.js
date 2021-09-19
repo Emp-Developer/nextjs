@@ -1,6 +1,6 @@
 import React from 'react'
 import Footer from './Footer'
-import Nabvar from './Nabvar'
+import Nabvar from './Navbar'
 
 function Layout({ children }) {
     return (
